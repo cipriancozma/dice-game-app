@@ -1,5 +1,4 @@
 # dice-game-app
-dice-game-app
 
 GAME RULES:
 
