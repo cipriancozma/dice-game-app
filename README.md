@@ -1,5 +1,15 @@
 # dice-game-app
 
+Things we aim to achieve:
+  - make code structure logical and easy to understand
+
+How we will achieve it:
+  - Keep code DRY (Do not Repeat Yourself)
+  - Avoid wet code (Writing Everything twice)
+
+Technology Overview:
+  - HTML5, CSS3, JavaScript
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
